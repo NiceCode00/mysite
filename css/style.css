@@ -26,6 +26,19 @@ a {
 a:hover {
   color: darkblue;
 }
+.tittle1{
+  font-size: 2.2rem;
+  color: darkblue;
+  
+}
+.name1{
+  font-size: 2.2rem;
+  color: blue;
+  
+}
+.name1:hover{
+  color: wheat;
+}
 @keyframes rotate {
   0% {
     transform: rotate(0deg);
